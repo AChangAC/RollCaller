@@ -1,0 +1,11 @@
+E:\项目\开发\随机点名器\RRC\RRC\bin\Release\随机点名器.exe.config
+E:\项目\开发\随机点名器\RRC\RRC\bin\Release\随机点名器.exe
+E:\项目\开发\随机点名器\RRC\RRC\bin\Release\随机点名器.pdb
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\RRC.csproj.AssemblyReference.cache
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\RRC.csproj.SuggestedBindingRedirects.cache
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\RRC.Window.resources
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\RRC.Properties.Resources.resources
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\RRC.csproj.GenerateResource.cache
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\RRC.csproj.CoreCompileInputs.cache
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\随机点名器.exe
+E:\项目\开发\随机点名器\RRC\RRC\obj\Release\随机点名器.pdb
